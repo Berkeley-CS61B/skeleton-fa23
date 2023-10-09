@@ -17,8 +17,6 @@ public class TestRedBlackTree {
      * Left children are listed before right children.
      */
 
-    // Don't know if these tests should be kept, especially if they give too much away
-
     /*
     Tests for a very basic case of rotating right. This does not check for color flips, but only if the nodes are in the proper
     place after rotating right. Note that we have not provided any basic tests for rotate left, but implementation details for
